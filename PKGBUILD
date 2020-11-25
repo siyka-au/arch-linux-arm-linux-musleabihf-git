@@ -6,7 +6,7 @@
 # Maintainer: Your Name <youremail@domain.com>
 _basename=armv7m-linux-musleabihf
 pkgname=${_basename}-git
-pkgver=r224.fe96f62
+pkgver=r226.d26cc98
 pkgrel=1
 pkgdesc="musl-cross-make, a "
 arch=("i686" "x86_64")
